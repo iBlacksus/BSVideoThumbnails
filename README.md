@@ -10,4 +10,4 @@ BSVideoThumbnails is an example how to getting thumbnail from a video url.
 
 ## License
 
-BDCamera is available under the MIT license. See the LICENSE file for more info.
+BSVideoThumbnails is available under the MIT license. See the LICENSE file for more info.
