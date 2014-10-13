@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/Borodutch/BSVideoThumbnails/master/BSVideoThumbnails Logo.png" alt="BSVideoThumbnails" title="BSVideoThumbnails">
+  <img src="https://raw.githubusercontent.com/Borodutch/BSVideoThumbnails/master/BSVideoThumbnailsLogo.png" alt="BSVideoThumbnails" title="BSVideoThumbnails">
 </p>
 
 BSVideoThumbnails is an example how to getting thumbnail from a video url.
